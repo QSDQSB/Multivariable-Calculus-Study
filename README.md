@@ -13,3 +13,10 @@
 - Uniqueness of solutions of Poisson's equation. Derivation of heat equation. Divergence theorem in plane. Informal proof for plane.
 - Stokes's theorem. Examples. Consequences. The existence of potential for a conservative force.
 - Gauss' Flux Theorem. Examples. Equivalence with Poisson's equation.
+
+## Project Preview
+### Card Preview
+<img width="1680" alt="image" src="https://user-images.githubusercontent.com/65840421/116819614-b5cd2100-ab68-11eb-9ba3-e73134dd5099.png">
+
+### Mindmap Preview
+<img width="981" alt="image" src="https://user-images.githubusercontent.com/65840421/116819646-d7c6a380-ab68-11eb-9244-c3edb278420e.png">
