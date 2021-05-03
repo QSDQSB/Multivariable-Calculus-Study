@@ -20,3 +20,6 @@
 
 ### Mindmap Preview
 <img width="981" alt="image" src="https://user-images.githubusercontent.com/65840421/116819646-d7c6a380-ab68-11eb-9244-c3edb278420e.png">
+
+## Notices
+- Some contents are summarised from various Internet sources, such as Wikipedia and Khan Academy.
